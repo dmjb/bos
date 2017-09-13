@@ -1,0 +1,4 @@
+iso/*
+*bochs*
+*.elf
+*.o
